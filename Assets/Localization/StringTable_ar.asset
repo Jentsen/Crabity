@@ -60,7 +60,6 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
   - m_Id: 1877837182369792
     m_Localized: "\u0642\u0644\u0627\u062E\u0644\u0627 \u0639\u0645 \u0644\u0635\u0627\u0648\u062A"
@@ -285,8 +284,6 @@ MonoBehaviour:
 >>>>>>> Stashed changes
     m_Metadata:
       m_Items: []
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
   references:

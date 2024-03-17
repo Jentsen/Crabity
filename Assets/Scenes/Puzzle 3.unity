@@ -1215,7 +1215,6 @@ Transform:
   m_PrefabInstance: {fileID: 1035603587}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &76594562
 GameObject:
@@ -1506,8 +1505,6 @@ Transform:
   m_PrefabInstance: {fileID: 186292362}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> Stashed changes
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!1 &79593135
@@ -11630,7 +11627,6 @@ Transform:
   m_PrefabInstance: {fileID: 791383823}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &809106442
 GameObject:
@@ -11989,8 +11985,6 @@ Transform:
   m_PrefabInstance: {fileID: 799525743}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> Stashed changes
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!1001 &812640088
@@ -28414,7 +28408,6 @@ MeshFilter:
   m_GameObject: {fileID: 2139483662}
   m_Mesh: {fileID: 4300048, guid: bff429107601444d59c67940e6ad78c4, type: 3}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &2145395759
 GameObject:
@@ -28897,8 +28890,6 @@ Transform:
   m_PrefabInstance: {fileID: 2145478133}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> Stashed changes
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!1660057539 &9223372036854775807

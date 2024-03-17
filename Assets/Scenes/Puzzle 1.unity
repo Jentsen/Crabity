@@ -10710,7 +10710,6 @@ Transform:
   m_PrefabInstance: {fileID: 718403892}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &725758049 stripped
 GameObject:
@@ -10919,8 +10918,6 @@ CanvasRenderer:
   m_GameObject: {fileID: 720651034}
   m_CullTransparentMesh: 1
 >>>>>>> Stashed changes
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!4 &736069906 stripped
@@ -20354,19 +20351,13 @@ CanvasRenderer:
   m_GameObject: {fileID: 1416770410}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!95 &1419797686 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 3903458668177014703, guid: 5cb718d1477c09b409e3b6d4bd8d6243, type: 3}
   m_PrefabInstance: {fileID: 3863146719208801578}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
-=======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!1 &1432586688
 =======
@@ -29425,7 +29416,6 @@ Transform:
   m_PrefabInstance: {fileID: 2006140389}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &2009506062
 =======
@@ -29763,8 +29753,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!224 &2014882387 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8422105412501343907, guid: 5cb718d1477c09b409e3b6d4bd8d6243, type: 3}
@@ -29885,7 +29873,6 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1163585691}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &2041113558
@@ -30293,8 +30280,6 @@ CanvasRenderer:
   m_GameObject: {fileID: 2045927647}
 >>>>>>> Stashed changes
   m_CullTransparentMesh: 1
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!4 &2053180701 stripped
@@ -31278,7 +31263,6 @@ MonoBehaviour:
   Materials: []
   InitialAlpha: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!1 &2122966752
 =======
@@ -31643,8 +31627,6 @@ Canvas:
   m_GameObject: {fileID: 2124875285}
   m_CullTransparentMesh: 1
 >>>>>>> Stashed changes
-=======
->>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 --- !u!1 &2126717031
