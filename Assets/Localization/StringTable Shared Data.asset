@@ -47,6 +47,7 @@ MonoBehaviour:
     m_Key: MainMenu2/Canvas/LocalDropdown 2
     m_Metadata:
       m_Items: []
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   - m_Id: 1877837182369792
     m_Key: Puzzle 1/UI/DialogueManager/Test/Text (TMP)
@@ -204,6 +205,8 @@ MonoBehaviour:
 >>>>>>> Stashed changes
     m_Metadata:
       m_Items: []
+=======
+>>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
