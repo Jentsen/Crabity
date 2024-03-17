@@ -54,6 +54,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   - m_Id: 1877837182369792
     m_Localized: Reach out to the creator
@@ -247,6 +248,8 @@ MonoBehaviour:
 >>>>>>> Stashed changes
     m_Metadata:
       m_Items: []
+=======
+>>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
 =======
 >>>>>>> parent of f9d1134 (Finished dialogue system w full localization)
   references:
